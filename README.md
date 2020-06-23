@@ -1,5 +1,5 @@
 # NaverMovie_Chat_Bot
-DiagFlow를 이용한 네이버 영화 검색 챗봇 제작 프로젝트
+DialogFlow를 이용한 네이버 영화 검색 챗봇 제작 프로젝트
 
 ### :family: 프로젝트 기간 및 참여 인원
 2020.01 ~ 2020.02 / 2명
@@ -11,7 +11,7 @@ DiagFlow를 이용한 네이버 영화 검색 챗봇 제작 프로젝트
 - python
 
 ### :hammer: Tool
-- DiagFlow
+- DialogFlow
 - pycharm
 
 ### :page_facing_up: Code
